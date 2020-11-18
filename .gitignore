@@ -1,0 +1,9 @@
+#file system
+.idea/
+__pycache__/
+
+#virtual env
+venv/
+
+#data base
+db.sqlite3
